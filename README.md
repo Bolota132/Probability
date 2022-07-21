@@ -1,5 +1,5 @@
 # Propósito do projeto
-
+O ProbabiltyCalculator tem como objetivo prever o resultado de um evento baseando-se nos dados obersevados, sendo assim possível determinar qual o possível desfecho mais róvavel de ocorrer.
 # Participantes
 Bruno da Fonseca Dumaresq
 # Organização do projeto com o respectivo diagrama de classes
@@ -15,7 +15,7 @@ O ProbabilityCalculator aceita qualquer tipo de jogo que extenda de Game e tem i
 
 Tendo os métodos da interface implementado o ProbabilityCalculator consegue calcular automaticamente a probabilidade de um jogador ganhar o jogo.
 
-Ao invés de jogador pode ser passado qualquer objeto que extenda de Player, como por exepmplo um time bastando que ele extenda da classe Player dessa forma agora podemos ter jogo de times ao invés de um jogo de n jogadores.
+Ao invés de jogador pode ser passado qualquer objeto que extenda de Player, como por exemplo um time bastando que ele extenda da classe Player dessa forma agora podemos ter jogo de times ao invés de um jogo de n jogadores.
 
 
 # Instruções de como realizar o build
