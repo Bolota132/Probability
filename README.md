@@ -38,4 +38,7 @@ Ao invés de jogador pode ser passado qualquer objeto que extenda de Player, com
     mvn package
     java -cp target/probability-1.0-SNAPSHOT.jar Main
 ````
-    
+
+
+# Apresentação
+ https://www.youtube.com/watch?v=-PXPbOjrgOY
