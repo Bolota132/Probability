@@ -1,5 +1,5 @@
 # Propósito do projeto
-O ProbabiltyCalculator tem como objetivo prever o resultado de um evento baseando-se nos dados obersevados, sendo assim possível determinar qual o possível desfecho mais róvavel de ocorrer.
+O ProbabiltyCalculator tem como objetivo prever o resultado de um evento baseando-se nos dados obersevados, sendo assim possível determinar qual o possível desfecho mais próvavel de ocorrer.
 # Participantes
 Bruno da Fonseca Dumaresq
 # Organização do projeto com o respectivo diagrama de classes
